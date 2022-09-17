@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptohunt/static/css/main.20c891a8.css",
+    "main.js": "/cryptohunt/static/js/main.f46231df.js",
+    "static/js/787.a83a094b.chunk.js": "/cryptohunt/static/js/787.a83a094b.chunk.js",
+    "index.html": "/cryptohunt/index.html",
+    "main.20c891a8.css.map": "/cryptohunt/static/css/main.20c891a8.css.map",
+    "main.f46231df.js.map": "/cryptohunt/static/js/main.f46231df.js.map",
+    "787.a83a094b.chunk.js.map": "/cryptohunt/static/js/787.a83a094b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c891a8.css",
+    "static/js/main.f46231df.js"
+  ]
+}
